@@ -1,2 +1,16 @@
-VimCrypt~03!…ßÅ7wÓÌĞ‡¬Y¾
-ûZÂ˜e¶­9S‡vK,t]e0Ù
+#include <stdio.h>
+
+/**
+ * main - print alphabet in reverse
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+	char c;
+
+	for (c = 'z'; c >= 'a'; c--)
+		putchar(c);
+	putchar('\n');
+	return (0);
+}

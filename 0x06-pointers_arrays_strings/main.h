@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef FILE_MAIN
+#define FILE_MAIN
 
 char *_strcat(char *dest, char *src);
 
@@ -28,4 +28,3 @@ char *rot13(char *);
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
 
 #endif
-© 2022 GitHub, Inc

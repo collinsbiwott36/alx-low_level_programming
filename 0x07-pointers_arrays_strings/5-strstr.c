@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #inclue <stdio.h>
 /**
 * _strstr - function locate

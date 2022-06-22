@@ -1,7 +1,7 @@
 nes (14 sloc)  375 Bytes
 
-#ifndef FILE_HOLBERTON
-#define FILE_HOLBERTON
+#ifndef FILE_MAIN
+#define FILE_MAIN
 
 void _puts_recursion(char *s);
 void _print_rev_recursion(char *s);

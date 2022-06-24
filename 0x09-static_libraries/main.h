@@ -1,7 +1,7 @@
 #ifndef FILE_MAIN
 #define FILE_MAIN
-#include <stddef.h>
-#include <stdio.h>
+
+/*copy list from task*/
 
 int _putchar(char c);
 int _islower(int c);
@@ -9,9 +9,9 @@ int _isalpha(int c);
 int _abs(int n);
 int _isupper(int c);
 int _isdigit(int c);
-size_t _strlen(const char *s);
+int _strlen(char *s);
 void _puts(char *s);
-char *_strcpy(char *dest, const char *src);
+char *_strcpy(char *dest, char *src);
 int _atoi(char *s);
 char *_strcat(char *dest, char *src);
 char *_strncat(char *dest, char *src, int n);

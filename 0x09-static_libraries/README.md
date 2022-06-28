@@ -1,1 +1,1 @@
-readme
+create the static library libmy.a
